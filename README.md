@@ -21,3 +21,7 @@ While the JavaScript is the "brains" of the app, there's also an actual app comp
 ### Questions? 🙋
 
 If you have any questions or suggestions, feel free to open an issue on GitHub, or hit me up on Twitter [@ChristianSelig](https://twitter.com/christianselig).
+
+### License
+
+This is open source in the interest of transparency, and I hope this doesn't need to be said but please don't take this as an opportunity to reupload the code and call it your own. 
