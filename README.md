@@ -24,4 +24,4 @@ If you have any questions or suggestions, feel free to open an issue on GitHub, 
 
 ### License
 
-This is open source in the interest of transparency, and I hope this doesn't need to be said but please don't take this as an opportunity to reupload the code and call it your own. 
+This is open source in the interest of transparency, and I hope this doesn't need to be said but please don't take this as an opportunity to reupload the code and call it your own. This is the equivalent to the [GitHub "No License"](https://choosealicense.com/no-permission/), so you're more than welcome to inspect the code and audit it, but you do not have permission to repurpose it as your own. 
